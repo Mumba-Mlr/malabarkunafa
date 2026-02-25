@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Malabar Kunafa Menu</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {font-family: Arial; background:#0f3d2e; color:white; text-align:center;}
+    .item {background:white; color:black; margin:15px; padding:15px; border-radius:10px;}
+    .btn {
+      display:block; margin:15px auto; padding:15px;
+      width:220px; background:#ffffff; color:#0f3d2e;
+      text-decoration:none; border-radius:8px; font-weight:bold;
+    }
+  </style>
+</head>
+
+<body>
+
+<h1>Malabar Kunafa Menu</h1>
+
+<div class="item">
+  <h2>Choco Bliss — ₹360</h2>
+</div>
+
+<div class="item">
+  <h2>Choco Bueno — ₹390</h2>
+</div>
+
+<div class="item">
+  <h2>Choco Berry — ₹150</h2>
+</div>
+
+<div class="item">
+  <h2>BrocoChoco — ₹250</h2>
+</div>
+
+<a class="btn" href="index.html">Back to Home</a>
+
+</body>
+</html>
